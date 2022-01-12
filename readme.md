@@ -1,1 +1,1 @@
-# Just the simple Pong game recreated in Java
+# The original Pong game recreated in Java
